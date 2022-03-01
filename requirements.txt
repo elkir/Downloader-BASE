@@ -1,1 +1,5 @@
-TBA
+cdsapi==0.5.1
+numpy==1.22.2
+xarray==0.21.1
+python>=3.8
+ipython>=8
